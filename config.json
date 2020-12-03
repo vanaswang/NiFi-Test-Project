@@ -1,10 +1,8 @@
-
 {
 "country": "CN",
 "county_code": "CN",
-"limit_ingestion_rows": "false",
 "log_prefix": "VANAS_TEST",
 "source_system": "TEST",
 "system": "TEST",
-"raw_schema": "N"
+"raw_schema": "Test"
 }
